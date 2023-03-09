@@ -6,7 +6,7 @@
 	"author": "Zlitz",
 	"description": "Zlitz's Animation Package",
 	"dependencies": {
-		"com.zlitz.utilities": "1.0.0"
+		"com.zlitz.utilities": "git+https://github.com/vv-hieu/com.zlitz.utilities.git"
 	},
 	"repository": {
 		"type": "git",
