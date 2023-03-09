@@ -1,0 +1,20 @@
+{
+    "name": "Zlitz.Animation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cf58d836b5e3549489b9c63f8f35c06f",
+        "GUID:67ff977bd304b364f87ab80462820b8f",
+        "GUID:d68051bf7afa63b44b1319f05b7883b1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
