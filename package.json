@@ -5,6 +5,9 @@
 	"unity": "2022.1",
 	"author": "Zlitz",
 	"description": "Zlitz's Animation Package",
+	"dependencies": {
+		"com.zlitz.utilities": "../com.zlitz.utilities"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/vv-hieu/com.zlitz.animation.git"
